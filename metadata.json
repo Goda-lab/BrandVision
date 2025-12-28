@@ -1,0 +1,7 @@
+{
+  "name": "BrandVision AI Mockup Studio",
+  "description": "A professional-grade design tool to visualize your brand on any product, building, or vehicle using advanced Gemini-powered image generation and editing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
